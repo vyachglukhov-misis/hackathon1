@@ -1,0 +1,11 @@
+.selectionBar-wrap {
+    margin: 25px 0;
+}
+
+.download-btn{
+    margin: 40px 0 0 10px;
+}
+
+.hidden {
+    display: none;
+}
